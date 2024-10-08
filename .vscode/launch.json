@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCEP",
+            "request": "launch",
+            "mainClass": "FormatadorCEP",
+            "projectName": "java-anatomia_daf5f5ff"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "java-anatomia_daf5f5ff"
+        },
+        {
+            "type": "java",
+            "name": "ForArray",
+            "request": "launch",
+            "mainClass": "ForArray",
+            "projectName": "java-anatomia_daf5f5ff"
+        },
+        {
+            "type": "java",
             "name": "Prova",
             "request": "launch",
             "mainClass": "Prova",
